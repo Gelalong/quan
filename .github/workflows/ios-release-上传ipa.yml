@@ -29,7 +29,7 @@ jobs:
           IPA_FILE_NAME: Runner.ipa
           APPLE_USERNAME: zotybpdd@outlook.com
           APPLE_PASSWORD: viki-wmak-nsau-wfzm
-          APPLE_ASC_PROVIDER: AP8W553DUM
+          APPLE_ASC_PROVIDER: 8L94MJQD9G
 
         run: |
           cd $WORKING_DIRECTORY
